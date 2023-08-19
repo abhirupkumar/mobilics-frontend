@@ -1,4 +1,4 @@
-## Guidelines
+## Important points
 
 1. Users must first Login/Signup. They can see their dashboard and all of their details after they have logged in.
 2. Users who have not logged in will be immediately redirected to the login page.
