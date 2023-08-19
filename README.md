@@ -7,6 +7,7 @@
 5. When a user clicks the edit button, a modal opens in which they must update or add their data before clicking the submit button to make the changes visible.
 6. To change the profile picture, users must click Upload Photo, select a file, click Upload, and then click Submit. The image is then uploaded to Cloudinary using their API, and the URL is saved in the MongoDB database.
 7. Users can add or remove other platform users from their connections on the connections page.
+8. To update or retrieve data, we have created custom APIs in our Node.js backend.
 
 ## Live Link: 
 https://mobilics-frontend.vercel.app
