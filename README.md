@@ -8,6 +8,11 @@
 6. To change the profile picture, users must click Upload Photo, select a file, click Upload, and then click Submit. The image is then uploaded to Cloudinary using their API, and the URL is saved in the MongoDB database.
 7. Users can add or remove other platform users from their connections on the connections page.
 
-Live Link: https://mobilics-frontend.vercel.app
-Frontend Code: https://github.com/abhirupkumar/mobilics-frontend
-Backend Code: https://github.com/abhirupkumar/mobilics-backend
+## Live Link: 
+https://mobilics-frontend.vercel.app
+
+## Frontend Code:
+https://github.com/abhirupkumar/mobilics-frontend
+
+## Backend Code:
+https://github.com/abhirupkumar/mobilics-backend
